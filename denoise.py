@@ -1,5 +1,18 @@
 #!/usr/local/bin/python
 
+#/*
+# *
+# * Image Denoise with Gibbs Sampling
+# *
+# * Copyright (c) 2021 Robert Clayton.
+# * All rights reserved.
+# *
+# * THIS SOFTWARE IS PROVIDED AS IS AND WITHOUT ANY EXPRESS OR IMPLIED 
+# * WARRANTIES, INCLUDING, WITHOUT LIMITATION, THE IMPLIED WARRANTIES OF MERCHANTABILITY 
+# * AND FITNESS FOR A PARTICULAR PURPOSE.
+# *
+#*/
+
 import numpy as np
 import pickle
 import matplotlib.pyplot as plt
